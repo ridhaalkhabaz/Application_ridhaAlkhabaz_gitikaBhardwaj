@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Application_ridhama2_gitikab2</string>
+    <string name="something">something</string>
+    <string name="somthing_else">somthing_else</string>
+    <string name="something_else_how">something_else_how</string>
+    <string name="string">TODO</string>
+    <string name="you_made_yourself_happy">you made yourself happy:</string>
+    <string name="to_do">TODO</string>
+    <string name="the_logo">the logo</string>
+    <string name="allo">hello</string>
+    <string name="resources">resources</string>
+    <string name="YOUR_API_KEY">AIzaSyCmbQxJFbDPlq053VGWQP2KfG0FyiHdE9Q </string>
+    <string name="textview">TextView</string>
+</resources>
